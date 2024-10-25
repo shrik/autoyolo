@@ -4,3 +4,6 @@
 models
 games
 **.png
+demo/data/*
+data
+logs.txt

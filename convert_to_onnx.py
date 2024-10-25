@@ -3,13 +3,12 @@ from ultralytics import YOLO
 
 from ultralytics.engine.model import Model
 
-image_dir = "/home/zrgy/workspace/sports/WASB-SBDT/src/tennis/game4/Clip3"
-
-# Load a pre-trained YOLOv10n model
-# model = YOLO("runs/detect/train13/weights/best.pt")
-model = YOLO("models/yolov8n_tennis_1280.pt")
+model = YOLO("models/yolov10n_tennis_1280_v2.pt")
 
 
 model.export(format="onnx", opset=12)
 
 # TODO BUG INT8
+
+
+# cp models/yolov10n_tennis_1280_v2.onnx ~/xanylabeling_data/models/tennis_yolov10/yolov10n.onnx
