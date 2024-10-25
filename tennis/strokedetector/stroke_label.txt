@@ -1,0 +1,407 @@
+ # === original ===
+# Game 1, Clip 1
+    # 26, 42, 82,116,141,174
+    # Game 1, Clip 2
+    # 29, 46, 92
+    # Game 1, Clip 3
+    # 27, 43
+    # Game 1, Clip 4
+    # 23,39, 79, 113, 138, 171
+    # Game 1, Clip 5
+    # 22, 40,59,82, 101 ,130, 149, 172
+    # Game 1, Clip 6
+    # 31, 
+    # Game 1, Clip 7
+    # 16, 34, 61, 90, 120,149, 180,206,237, 268,294,328,358,423
+    # Game 1, Clip 8
+    # 27, 
+    # Game 1, Clip 9 
+    # 25,45,82,
+    # Game 1, Clip 10 
+    # 27, 43, 74, 
+    # Game 1, Clip 11
+    # 27, 48, 90,
+    # Game 1, Clip 12
+    # 27, 49,92, 
+    # Game 1, Clip 13
+    # 19, 35, 63, 93, 128, 157, 178, 239
+
+    # Game 2, Clip 1
+    # 0, 17, 85, 115,162, 193, 228, 265,296,332,
+    # Game 2, Clip 2
+    # 0, 18, 52, 84, 128, 153, 173, 
+    # Game 2, Clip 3
+    # 11, 
+    # Game 2, Clip 4
+    # 22
+    # Game 2, Clip 5, 
+    # 9, 28, 59, 96, 139, 168, 
+    # Game 2, Clip 6,
+    # 16, 46, 78, 112,143,175, 213, 256, 283, 315, 339, 384,414,452,478, 523, 
+    # Game 2, Clip 7
+    # 11, 29, 68, 96, 126, 171, 
+    # Game 2, Clip 8
+    # 0, 14, 53, 82, 113, 144,175, 205, 237,267, 297, 331, 374, 406, 435,464, 493, 525,554,582,619,
+    
+    # Game 3, Clip 1
+    # 7, 29, 80, 117, 137, 
+    # Game 3, Clip 2
+    # 3, 
+    # Game 3, Clip 3
+    # 3, 23, 57, 98, 138, 179, 220, 271, 307, 365, 
+    # Game 3, Clip 4
+    # 3, 26, 76, 115, 154, 189, 229, 297, 333, 379, 
+    # Game 3, Clip 5
+    # 11, 33, 94, 
+    # Game 3, Clip 6
+    # 18, 39, 87, 121,199, 
+    # Game 3, Clip 7
+    # 17, 40,90, 130, 205,230, 289, 
+    # Game 3, Clip 8
+    # 0, 23, 
+    # Game 3, Clip 9
+    # 5, 28, 86, 
+
+    # Game 5, Clip 1
+    # 31, 53, 85 , 118, 156, 
+    # Game 5, Clip 2
+    # 25, 
+    # Game 5, Clip 3
+    # 37
+    # Game 5, Clip 4
+    # 31, 55, 91, 118, 154, 184, 221, 
+    # Game 5, Clip 5
+    # 25, 43, 84, 
+    # Game 5, Clip 6
+    # 27, 49, 94, 124, 184, 
+    # Game 5, Clip 7
+    # 39, 58, 102, 127, 148, 
+    # Game 5, Clip 8
+    # 19, 40,91, 
+    # Game 5, Clip 9
+    # 18, 41, 84, 111,155,
+    # Game 5, Clip 10
+    # 22, 43, 88,
+    # Game 5, Clip 11
+    # 11, 
+    # Game 5, Clip 12
+    # 2, 28, 54, 92, 146, 
+    # Game 5, Clip 13
+    # 22, 
+    # Game 5, Clip 14
+    # 20, 
+    # Game 5, Clip 15
+    # 18, 41, 86, 111,161
+ # === end ===
+ 
+    # Game 1, Clip 1
+    # 26, 42, 82,116,141,174
+game1,Clip1,26,serve
+game1,Clip1,42,stroke
+game1,Clip1,82,stroke
+game1,Clip1,116,stroke
+game1,Clip1,141,stroke
+game1,Clip1,174,stroke
+    # Game 1, Clip 2
+    # 29, 46, 92
+game1,Clip2,29,serve
+game1,Clip2,46,stroke
+game1,Clip2,92,stroke
+    # Game 1, Clip 3
+    # 27, 43
+game1,Clip3,27,serve
+game1,Clip3,43,stroke
+    # Game 1, Clip 4
+    # 23,39, 79
+game1,Clip4,23,serve
+game1,Clip4,39,stroke
+game1,Clip4,79,stroke
+    # Game 1, Clip 5
+    # 22, 40,59,82, 101 ,130
+game1,Clip5,22,serve
+game1,Clip5,40,stroke
+game1,Clip5,59,stroke
+game1,Clip5,82,stroke
+game1,Clip5,101,stroke
+game1,Clip5,130,stroke
+    # Game 1, Clip 6
+    # 31, 
+game1,Clip6,31,serve
+    # Game 1, Clip 7
+    # 16, 34, 61, 90, 120,149, 180,206,237, 268,294,328,358,423
+game1,Clip7,16,serve
+game1,Clip7,34,stroke
+game1,Clip7,61,stroke
+game1,Clip7,90,stroke
+game1,Clip7,120,stroke
+game1,Clip7,149,stroke
+game1,Clip7,180,stroke
+game1,Clip7,206,stroke
+game1,Clip7,237,stroke
+game1,Clip7,268,stroke
+game1,Clip7,294,stroke
+game1,Clip7,328,stroke
+game1,Clip7,358,stroke
+game1,Clip7,423,stroke
+    # Game 1, Clip 8
+    # 27, 
+game1,Clip8,27,serve
+    # Game 1, Clip 9 
+    # 25,45,82,
+game1,Clip9,25,serve
+game1,Clip9,45,stroke
+game1,Clip9,82,stroke
+    # Game 1, Clip 10 
+    # 27, 43, 74, 
+game1,Clip10,27,serve   
+game1,Clip10,43,stroke
+game1,Clip10,74,stroke
+    # Game 1, Clip 11
+    # 27, 48, 90,
+game1,Clip11,27,serve
+game1,Clip11,48,stroke
+game1,Clip11,90,stroke
+    # Game 1, Clip 12
+    # 27, 49,92, 
+game1,Clip12,27,serve
+game1,Clip12,49,stroke
+game1,Clip12,92,stroke
+    # Game 1, Clip 13
+    # 19, 35, 63, 93, 128, 157, 178, 239
+game1,Clip13,19,serve
+game1,Clip13,35,stroke
+game1,Clip13,63,stroke
+game1,Clip13,93,stroke
+game1,Clip13,128,stroke
+game1,Clip13,157,stroke
+game1,Clip13,178,stroke
+game1,Clip13,239,stroke
+    # Game 2, Clip 1
+    # 0, 17, 85, 115,162, 193, 228, 265,296,332,
+game2,Clip1,0,serve
+game2,Clip1,17,stroke
+game2,Clip1,85,stroke
+game2,Clip1,115,stroke
+game2,Clip1,162,stroke
+game2,Clip1,193,stroke
+game2,Clip1,228,stroke
+game2,Clip1,265,stroke
+game2,Clip1,296,stroke
+game2,Clip1,332,stroke
+    # Game 2, Clip 2
+    # 0, 18, 52, 84, 128, 153, 173, 
+game2,Clip2,0,serve
+game2,Clip2,18,stroke
+game2,Clip2,52,stroke
+game2,Clip2,84,stroke
+game2,Clip2,128,stroke
+game2,Clip2,153,stroke
+game2,Clip2,173,stroke
+    # Game 2, Clip 3
+    # 11, 
+game2,Clip3,11,serve
+    # Game 2, Clip 4
+    # 22
+game2,Clip4,22,serve
+    # Game 2, Clip 5, 
+    # 9, 28, 59, 96, 139, 168, 
+game2,Clip5,9,serve
+game2,Clip5,28,stroke
+game2,Clip5,59,stroke
+game2,Clip5,96,stroke
+game2,Clip5,139,stroke
+game2,Clip5,168,stroke
+    # Game 2, Clip 6,
+    # 16, 46, 78, 112,143,175, 213, 256, 283, 315, 339, 384,414,452,478, 523, 
+game2,Clip6,16,serve
+game2,Clip6,46,stroke
+game2,Clip6,78,stroke
+game2,Clip6,112,stroke
+game2,Clip6,143,stroke
+game2,Clip6,175,stroke
+game2,Clip6,213,stroke
+game2,Clip6,256,stroke
+game2,Clip6,283,stroke
+game2,Clip6,315,stroke
+game2,Clip6,339,stroke
+game2,Clip6,384,stroke
+game2,Clip6,414,stroke
+game2,Clip6,452,stroke
+game2,Clip6,478,stroke
+game2,Clip6,523,stroke
+    # Game 2, Clip 7
+    # 11, 29, 68, 96, 126, 171, 
+game2,Clip7,11,serve
+game2,Clip7,29,stroke
+game2,Clip7,68,stroke
+game2,Clip7,96,stroke
+game2,Clip7,126,stroke
+game2,Clip7,171,stroke
+    # Game 2, Clip 8
+    # 0, 14, 53, 82, 113, 144,175, 205, 237,267, 297, 331, 374, 406, 435,464, 493, 525,554,582,619,
+game2,Clip8,0,serve
+game2,Clip8,14,stroke
+game2,Clip8,53,stroke
+game2,Clip8,82,stroke
+game2,Clip8,113,stroke
+game2,Clip8,144,stroke
+game2,Clip8,175,stroke
+game2,Clip8,205,stroke
+game2,Clip8,237,stroke
+game2,Clip8,267,stroke
+game2,Clip8,297,stroke
+game2,Clip8,331,stroke
+game2,Clip8,374,stroke
+game2,Clip8,406,stroke
+game2,Clip8,435,stroke
+game2,Clip8,464,stroke
+game2,Clip8,493,stroke
+game2,Clip8,525,stroke
+game2,Clip8,554,stroke
+game2,Clip8,582,stroke
+game2,Clip8,619,stroke
+    # Game 3, Clip 1
+    # 7, 29, 80, 117, 137, 
+game3,Clip1,7,serve
+game3,Clip1,29,stroke
+game3,Clip1,80,stroke
+game3,Clip1,117,stroke
+game3,Clip1,137,stroke
+    # Game 3, Clip 2
+    # 3, 
+game3,Clip2,3,serve
+    # Game 3, Clip 3
+    # 3, 23, 57, 98 , 138, 179, 220, 271, 307, 365, 
+game3,Clip3,3,serve
+game3,Clip3,23,stroke
+game3,Clip3,57,stroke
+game3,Clip3,98,stroke
+game3,Clip3,138,stroke
+game3,Clip3,179,stroke
+game3,Clip3,220,stroke
+game3,Clip3,271,stroke
+game3,Clip3,307,stroke
+game3,Clip3,365,stroke
+    # Game 3, Clip 4
+    # 3, 26, 76, 115, 154, 189, 229, 297, 333, 379, 
+game3,Clip4,3,serve
+game3,Clip4,26,stroke
+game3,Clip4,76,stroke
+game3,Clip4,115,stroke
+game3,Clip4,154,stroke
+game3,Clip4,189,stroke
+game3,Clip4,229,stroke
+game3,Clip4,297,stroke
+game3,Clip4,333,stroke
+game3,Clip4,379,stroke
+    # Game 3, Clip 5
+    # 11, 33, 94, 
+game3,Clip5,11,serve
+game3,Clip5,33,stroke
+game3,Clip5,94,stroke
+    # Game 3, Clip 6
+    # 18, 39, 87, 121,199, 
+game3,Clip6,18,serve
+game3,Clip6,39,stroke
+game3,Clip6,87,stroke
+game3,Clip6,121,stroke
+game3,Clip6,199,stroke
+    # Game 3, Clip 7
+    # 17, 40,90, 130, 205,230, 289, 
+game3,Clip7,17,serve
+game3,Clip7,40,stroke
+game3,Clip7,90,stroke
+game3,Clip7,130,stroke
+game3,Clip7,205,stroke
+game3,Clip7,230,stroke
+game3,Clip7,289,stroke
+    # Game 3, Clip 8
+    # 0, 23, 
+game3,Clip8,0,serve
+game3,Clip8,23,stroke
+    # Game 3, Clip 9
+    # 5, 28, 86, 
+game3,Clip9,5,serve
+game3,Clip9,28,stroke
+game3,Clip9,86,stroke
+    # Game 5, Clip 1
+    # 31, 53, 85 , 118, 156, 
+game5,Clip1,31,serve
+game5,Clip1,53,stroke
+game5,Clip1,85,stroke
+game5,Clip1,118,stroke
+game5,Clip1,156,stroke
+    # Game 5, Clip 2
+    # 25, 
+game5,Clip2,25,serve
+    # Game 5, Clip 3
+    # 37
+game5,Clip3,37,serve
+    # Game 5, Clip 4
+    # 31, 55, 91, 118, 154, 184, 221, 
+game5,Clip4,31,serve
+game5,Clip4,55,stroke
+game5,Clip4,91,stroke
+game5,Clip4,118,stroke
+game5,Clip4,154,stroke
+game5,Clip4,184,stroke
+game5,Clip4,221,stroke
+    # Game 5, Clip 5
+    # 25, 43, 84, 
+game5,Clip5,25,serve
+game5,Clip5,43,stroke
+game5,Clip5,84,stroke
+    # Game 5, Clip 6
+    # 27, 49, 94, 124, 184, 
+game5,Clip6,27,serve
+game5,Clip6,49,stroke
+game5,Clip6,94,stroke
+game5,Clip6,124,stroke
+game5,Clip6,184,stroke
+    # Game 5, Clip 7
+    # 39, 58, 102, 127, 148, 
+game5,Clip7,39,serve
+game5,Clip7,58,stroke
+game5,Clip7,102,stroke
+game5,Clip7,127,stroke
+game5,Clip7,148,stroke
+    # Game 5, Clip 8
+    # 19, 40,91, 
+game5,Clip8,19,serve
+game5,Clip8,40,stroke
+game5,Clip8,91,stroke
+    # Game 5, Clip 9
+    # 18, 41, 84, 111,155,
+game5,Clip9,18,serve
+game5,Clip9,41,stroke
+game5,Clip9,84,stroke
+game5,Clip9,111,stroke
+game5,Clip9,155,stroke
+    # Game 5, Clip 10
+    # 22, 43, 88,
+game5,Clip10,22,serve
+game5,Clip10,43,stroke
+game5,Clip10,88,stroke
+    # Game 5, Clip 11
+    # 11, 
+game5,Clip11,11,serve
+    # Game 5, Clip 12
+    # 2, 28, 54, 92, 146, 
+game5,Clip12,2,serve
+game5,Clip12,28,stroke
+game5,Clip12,54,stroke
+game5,Clip12,92,stroke
+game5,Clip12,146,stroke
+    # Game 5, Clip 13
+    # 22, 
+game5,Clip13,22,serve
+    # Game 5, Clip 14
+    # 20, 
+game5,Clip14,20,serve
+    # Game 5, Clip 15
+    # 18, 41, 86, 111,161
+game5,Clip15,18,serve
+game5,Clip15,41,stroke
+game5,Clip15,86,stroke
+game5,Clip15,111,stroke
+game5,Clip15,161,stroke
