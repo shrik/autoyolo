@@ -7,3 +7,5 @@ games
 demo/data/*
 data
 logs.txt
+tennis/strokedetector/val.csv
+tennis/strokedetector/catboost_info
