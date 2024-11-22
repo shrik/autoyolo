@@ -3,7 +3,7 @@ import pandas as pd
 data = pd.read_csv("event.txt", header=None, names=["game", "clip", "index", "x", "y", "event_cls"])
 
 # convert event_cls to int, unknown 0, serve 1, stroke 2
-data['event_cls'] = data['event_cls'].map({'unknown': 0, 'serve': 1, 'stroke': 1})
+data['event_cls'] = data['event_cls'].map({'unknown': 0, 'serve': 1, 'stroke': 0})
 
 FEATURE_WINDOW_NUM = 5
 # print(data)
@@ -79,8 +79,6 @@ for threshold in np.arange(0.1, 1, 0.1):
     print(f'tp: {len(tp)}, tn: {len(tn)}, fp: {len(fp)}, fn: {len(fn)}')
     print(f'accuracy: {acc}, recall: {recall}, precision: {precision}')
 
-# export cbm model
-catboost_regressor.save_model('stroke_model.cbm')
 
 test_data["pred_cls"] = (test_data["pred"] > 0.1).astype(int)
 test_data["correct"] = test_data["pred_cls"] == test_data["event_cls"]
