@@ -8,16 +8,15 @@
 #     └── coco8  ← downloads here (1 MB)
 
 # Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
-# path: ../ultralytics/demo/games # dataset root dir
-path: ../games
+path: ../ultralytics/demo/games/zoom/yololabel # dataset root dir
 train:
   # - images/minitrain # train images (relative to 'path') 4 images
   - images/taishan6k
   - images/train # 17000 too many images
-  - images/fps90 # 2600 images
 val:
   # - images/val # val images (relative to 'path') 4 images
-  - images/fps90
+  - images/taishan6k
+  - images/train
 test: # test images (optional)
 
 # Classes

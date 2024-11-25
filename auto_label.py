@@ -79,7 +79,7 @@ print(imagefiles[0:10])
 valid_image_files = []
 for imagefile in imagefiles:
     image_path = imagefile
-    image = cv2.imread(image_path)
+    print(image_path)
     results = model.predict(source=image_path)
     if len(results) > 1:
         raise Exception("More than one result")

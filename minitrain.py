@@ -4,7 +4,7 @@ from ultralytics import YOLO
 # params = {"model": "yolov10x", "epochs": 1000, "imgsz": 640, "batch": 16}
 
 # params = {"model": "yolov8n.pt", "epochs": 1000, "imgsz": 640, "batch": 64}
-params = {"model": "models/yolov10n_tennis_1280_v3.pt", "epochs": 1000, "imgsz": 1280, "batch": 16}
+params = {"model": "yolov8n.pt", "epochs": 1000, "imgsz": 80, "batch": 32}
 
 
 # Load a pretrained YOLO model (recommended for training)
@@ -12,14 +12,14 @@ params = {"model": "models/yolov10n_tennis_1280_v3.pt", "epochs": 1000, "imgsz":
 model = YOLO(params["model"])
 
 # Train the model using the 'coco8.yaml' dataset for 3 epochs
-results = model.train(data="tennis.yaml", epochs=params["epochs"], imgsz=params["imgsz"],
+results = model.train(data="minitennis.yaml", epochs=params["epochs"], imgsz=params["imgsz"],
                       batch=params["batch"], scale=0.8)
 
 # Evaluate the model's performance on the validation set
 results = model.val()
 
-# Perform object detection on an image using the model
-results = model("games/images/val/0009.jpg")
+# # Perform object detection on an image using the model
+# results = model("games/images/val/0009.jpg")
 
 # Export the model to ONNX format
 success = model.export(format="onnx")

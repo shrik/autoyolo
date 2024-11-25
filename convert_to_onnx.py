@@ -3,7 +3,7 @@ from ultralytics import YOLO
 
 from ultralytics.engine.model import Model
 
-model = YOLO("models/yolov10n_tennis_1280_v2.pt")
+model = YOLO("models/basketball_sz.pt")
 
 
 model.export(format="onnx", opset=12)

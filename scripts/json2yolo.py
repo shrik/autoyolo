@@ -2,8 +2,9 @@
 
 import json
 import os
-
-INPUT_DIR = "data/taishanimgs_labels/"
+import sys
+INPUT_DIR = sys.argv[1] 
+# INPUT_DIR = "games/zoom/images/taishan6k_labels/"
 OUTPUT_DIR = os.path.join(INPUT_DIR, "yolo")
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)

@@ -7,3 +7,11 @@ games
 demo/data/*
 data
 logs.txt
+runs
+u3d
+labeling/h264video/left_images
+labeling/h264video/right_images
+labeling/h264video/left_image_labels
+labeling/h264video/right_image_labels
+labeling/h264video/*.video
+labeling/h264video/filtered
